@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02feb5ab6e51109468d1922a7edd57a1, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  sName: Greathammer
+  spIcon: {fileID: 21300000, guid: e3c20487fc51b8d449e150a6b19d5274, type: 3}
+  fDmg: 45
+  fRng: 8
+  fSpd: 2
+  fKbk: 300
+  fDur: 6
